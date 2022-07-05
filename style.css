@@ -1,10 +1,16 @@
 body{
     font-family: 'Poppins', sans-serif; margin: 0;
 }
+h1 {
+    font-size: 50px;
+}
+h2 {
+    font-size: 40px;
+}
 .orange-color {
     color: orange;
 }
-section{
+.flexible-container {
     display: flex; margin-bottom: 150px;
 }
 .half-width{
@@ -26,4 +32,11 @@ section{
 .dream-big{
     background-image: url(images/dream-bg.png); background-repeat: no-repeat;
     background-position: right;
+}
+.experience-item{
+    box-shadow: 10px 10px 10px gray; 
+    width: 80%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 5%;
 }
