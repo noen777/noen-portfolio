@@ -33,6 +33,10 @@ h2 {
     background-image: url(images/dream-bg.png); background-repeat: no-repeat;
     background-position: right;
 }
+.exp-area {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+}
 .experience-item{
     box-shadow: 10px 10px 10px gray; 
     width: 80%;
